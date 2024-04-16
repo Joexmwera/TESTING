@@ -1,1 +1,13 @@
+# TESTING
  Testing Git and Github for CIS 111B if the github repostory is working//
+
+Public class HelloWorld{
+Public static void main(String[]args){
+   System.out.println("Hello World");
+   for (int i = 1; i <= 100; i++) {
+            System.out.print(i + " ");
+  
+   
+
+
+
